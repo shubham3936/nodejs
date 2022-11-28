@@ -1,0 +1,25 @@
+{
+  "email": "mohanallam@gmail.com",
+  "name": "mohanallam",
+  "mobile": "9440314900",
+  "password": "123456789",
+  "gender": "male"
+}{
+  "email": "mohan@gmail.com",
+  "name": "lkjdjflkdjf",
+  "mobile": "1234567890",
+  "password": "abcdefghio",
+  "gender": "male"
+}{
+  "email": "mohanallam@gmail.com",
+  "name": "mohanallam",
+  "mobile": "9440314900",
+  "password": "123456789",
+  "gender": "male"
+}{
+  "email": "mohanallam@gmail.com",
+  "name": "mohanallam",
+  "mobile": "9440314900",
+  "password": "123456789",
+  "gender": "male"
+}
